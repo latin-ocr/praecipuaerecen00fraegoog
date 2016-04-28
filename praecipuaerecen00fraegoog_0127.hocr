@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./praecipuaerecen00fraegoog_0127.png"; bbox 0 0 806 1296; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 347 798 590 965">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 347 798 590 965">
+     <span class='ocr_line' id='line_1_1' title="bbox 347 798 544 846; baseline 0 -29"><span class='ocrx_word' id='word_1_1' title='bbox 347 837 349 846; x_wconf 25' lang='grc' dir='ltr'>ζ</span> <span class='ocrx_word' id='word_1_2' title='bbox 471 798 544 818; x_wconf 66' lang='lat' dir='ltr'><strong>Eurym³⁴⁰</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 349 818 581 868; baseline -0.009 -33"><span class='ocrx_word' id='word_1_3' title='bbox 349 849 353 868; x_wconf 14' lang='grc' dir='ltr'><strong>κη</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 476 831 510 845; x_wconf 74' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 520 820 563 837; x_wconf 62' lang='lat' dir='ltr'><strong>&#39;nu&#39;xus</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 573 818 581 827; x_wconf 55' lang='grc' dir='ltr'>ί</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 354 846 580 901; baseline -0.035 -31"><span class='ocrx_word' id='word_1_7' title='bbox 354 877 359 901; x_wconf 39' lang='lat' dir='ltr'>K</span> <span class='ocrx_word' id='word_1_8' title='bbox 480 853 538 872; x_wconf 64' lang='lat' dir='ltr'><strong>solitum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 549 846 580 859; x_wconf 58' lang='lat'><strong>²⁵⁵⁸</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 358 875 573 922; baseline -0.009 -26"><span class='ocrx_word' id='word_1_10' title='bbox 358 902 361 922; x_wconf 36' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_11' title='bbox 485 881 524 903; x_wconf 66' lang='lat' dir='ltr'><strong>prim</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 539 875 573 893; x_wconf 57' lang='lat'><strong>⁹²¹⁵</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 514 942 590 965; baseline -0.079 -10"><span class='ocrx_word' id='word_1_13' title='bbox 514 949 527 965; x_wconf 71' lang='lat'><strong>¹)</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 536 942 590 957; x_wconf 59' lang='lat' dir='ltr'><strong>cmm„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 202 1037 604 1296">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 202 1037 604 1296">
+     <span class='ocr_line' id='line_1_6' title="bbox 202 1037 604 1296; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 202 1037 604 1296; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
